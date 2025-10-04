@@ -1,7 +1,12 @@
 # 🛍 Myntra Clone (HTML & CSS)
 
-This project is a visual clone of the popular e-commerce website Myntra, built entirely using HTML and CSS.  
-The design aims to replicate the look and feel of the original site, including the navigation bar, product sections, banners, and overall layout.
+This project is a visual clone of the Myntra website, built completely using HTML and CSS. 
+It replicates the site’s layout, including the navigation bar, product grid, and banners, to mirror the original design closely.
 
-The purpose of this project was to strengthen my frontend skills by recreating a real-world UI from scratch without using JavaScript.
-While the clone does not include dynamic functionality (like cart actions or filtering), it accurately reflects the structure, styling, and responsive design of the original platform.
+This is one of the best clones I’ve created, with clean structure, smooth alignment, and attractive styling.
+I focused on details like spacing, colors, and typography to make it look professional and realistic.
+
+The project helped me improve my frontend design skills by rebuilding a real-world interface from scratch.
+It strengthened my understanding of layouts, positioning, and responsive design using only CSS.
+
+While it doesn’t include dynamic features, the clone accurately captures the look and feel of an e-commerce platform and showcases how HTML and CSS alone can build a polished, modern UI.
