@@ -1,5 +1,8 @@
 # 🛍 Myntra Clone (HTML & CSS)
 
+## 🔗 Live Demo
+[View Project](https://stylecart-ui-paresh.netlify.app/)
+
 This project is a visual clone of the Myntra website, built completely using HTML and CSS. 
 It replicates the site’s layout, including the navigation bar, product grid, and banners, to mirror the original design closely.
 
